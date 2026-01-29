@@ -3,6 +3,7 @@
 Project ini dibuat sebagai **tugas Sesi 4**, dengan tujuan
 membuat REST API sederhana menggunakan **Google Gemini 2.5 Flash**
 dan **Node.js + Express**.
+Dibuat oleh Priyo Setioko email hahahahatyo685@gmail.com 
 
 ## Tujuan Pembelajaran
 - Memahami konsep REST API
