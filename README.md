@@ -53,3 +53,4 @@ Project diuji menggunakan Thunder Client
 
 Digunakan untuk keperluan pembelajaran (Sesi 4)
 
+File ini dilengkapi dengan Screenshot.jpg di dalam git
